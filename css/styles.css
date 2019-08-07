@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: #654321;
+  font-family: monospace;
+}
+h1{
+  font-size: 50px;
+}
+
+h2{
+  font-size: 40px;
+  text-decoration: line-through;
+}
+
+.intro{
+  text-decoration: underline;
+}
